@@ -1,7 +1,7 @@
 {
   "name": "react-boiler",
   "version": "1.0.0",
-  "description": "chrome://flags/#allow-insecure-localhost",
+  "description": "react-parcel",
   "main": "main.js",
   "scripts": {
     "dev": "parcel index.html --https"
