@@ -1,3 +1,6 @@
+# **Outdated dependencies!**:
+# **TO BE DELETED**
+
 ## Minimal react boilerplate using parcel.js for prototyping
 - import "babel-polyfill" (to allow async/await)
 
